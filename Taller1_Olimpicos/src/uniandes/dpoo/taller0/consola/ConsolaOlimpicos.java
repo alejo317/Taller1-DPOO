@@ -13,6 +13,8 @@ import uniandes.dpoo.taller0.modelo.Genero;
 import uniandes.dpoo.taller0.procesamiento.CalculadoraEstadisticas;
 import uniandes.dpoo.taller0.procesamiento.LoaderOlimpicos;
 
+//Alejandro Lancheros - 202122797
+
 public class ConsolaOlimpicos
 {
 	/**
